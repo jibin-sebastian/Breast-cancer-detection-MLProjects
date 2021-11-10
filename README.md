@@ -27,3 +27,7 @@ Background
 All of our bodies are composed of cells. The human body has about 100 trillion cells within it. And usually, those cells behave in a certain way. However, occasionally, one of these 100 trillion cells, behave in a different way and keeps dividing and pushes the other cells around it out of the way. That cell stops observing the rules of the tissue within which it is located and begins to move out of its normal position and starts invading into the tissues around it and sometimes entering the bloodstream and becoming is called metastasis.
 
 In summary, as we grow older, throughout a lifetime, we go through this kind of situation where a particular kind of gene is mutated where the protein that it makes is abnormal and drives the cell to behave in a different way that we call cancer.
+
+#Model Accurracy
+
+![image](https://user-images.githubusercontent.com/84179246/141202181-eca90386-6219-44ce-a7ef-765a52d43dfa.png)
